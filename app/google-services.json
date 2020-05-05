@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "550652660497",
+    "firebase_url": "https://ladm-u3-marissa.firebaseio.com",
+    "project_id": "ladm-u3-marissa",
+    "storage_bucket": "ladm-u3-marissa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550652660497:android:63c5823e70184dc688dab0",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u3_pr2_castillofranquez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550652660497-11o4str00ufkn396jc7sj6gfiamn8rjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAopVpsyJ9OnjU2PBjGYACT5sKembAydhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550652660497-11o4str00ufkn396jc7sj6gfiamn8rjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
